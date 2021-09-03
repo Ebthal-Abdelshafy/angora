@@ -1,0 +1,401 @@
+@keyframes typing {
+    0% {
+        content: "K|";
+    }
+
+    1% {
+        content: "Ke|";
+    }
+
+    2% {
+        content: "Ker|";
+    }
+
+    3% {
+        content: "Kerr.|";
+    }
+
+    4% {
+        content: "Kerri|";
+    }
+
+    5% {
+        content: "Kerri |";
+    }
+
+    6% {
+        content: "Kerri D|";
+    }
+
+    7% {
+        content: "Kerri De|";
+    }
+
+    8% {
+        content: "Kerri Deo|";
+    }
+
+    9% {
+        content: "Kerri Deo.|";
+    }
+
+    10% {
+        content: "Kerri Deo|";
+    }
+
+    11% {
+        content: "Kerri De|";
+    }
+
+    12% {
+        content: "Kerri D|";
+    }
+
+    13% {
+        content: "Kerri |";
+    }
+
+    14% {
+        content: "Kerri|";
+    }
+
+    15% {
+        content: "Kerr|";
+    }
+
+    16% {
+        content: "Ker|";
+    }
+
+    17% {
+        content: "Ke|";
+    }
+
+    18% {
+        content: "K|";
+    }
+
+    19% {
+        content: "|";
+    }
+
+    20% {
+        content: "A|";
+    }
+
+    21% {
+        content: "A |";
+    }
+
+    22% {
+        content: "A P|";
+    }
+
+    23% {
+        content: "A Ph|";
+    }
+
+    25% {
+        content: "A Pho|";
+    }
+
+    26% {
+        content: "A Phot|";
+    }
+
+    27% {
+        content: "A Photo|";
+    }
+
+    28% {
+        content: "A Photog|";
+    }
+
+    29% {
+        content: "A Photogr|";
+    }
+
+    30% {
+        content: "A Photogra|";
+    }
+
+    31% {
+        content: "A Photograp|";
+    }
+
+    32% {
+        content: "A Photograph|";
+    }
+
+    33% {
+        content: "A Photographe|";
+    }
+
+    34% {
+        content: "A Photographer|";
+    }
+
+    35% {
+        content: "A Photographer.|";
+    }
+
+    36% {
+        content: "A Photographer|";
+    }
+
+    37% {
+        content: "A Photographe|";
+    }
+
+    38% {
+        content: "A Photograph|";
+    }
+
+    39% {
+        content: "A Photograp|";
+    }
+
+    40% {
+        content: "A Photogra|";
+    }
+
+    41% {
+        content: "A Photogr|";
+    }
+
+    42% {
+        content: "A Photog|";
+    }
+
+    43% {
+        content: "A Photo|";
+    }
+
+    44% {
+        content: "A Phot|";
+    }
+
+    45% {
+        content: "A Pho|";
+    }
+
+    46% {
+        content: "A Ph|";
+    }
+
+    47% {
+        content: "A P|";
+    }
+
+    48% {
+        content: "A |";
+    }
+
+    49% {
+        content: "A|";
+    }
+
+    50% {
+        content: "|";
+    }
+
+    51% {
+        content: "A|";
+    }
+
+    52% {
+        content: "A |";
+    }
+
+    53% {
+        content: "A G|";
+    }
+
+    54% {
+        content: "A Gr|";
+    }
+
+    55% {
+        content: "A Gra|";
+    }
+
+    56% {
+        content: "A Grap|";
+    }
+
+    57% {
+        content: "A Graph|";
+    }
+
+    58% {
+        content: "A Graphi|";
+    }
+
+    59% {
+        content: "A Graphic|";
+    }
+
+    60% {
+        content: "A Graphic |";
+    }
+
+    61% {
+        content: "A Graphic D|";
+    }
+
+    62% {
+        content: "A Graphic De|";
+    }
+
+    63% {
+        content: "A Graphic Des|";
+    }
+
+    64% {
+        content: "A Graphic Desi|";
+    }
+
+    65% {
+        content: "A Graphic Desig|";
+    }
+
+    66% {
+        content: "A Graphic Design|";
+    }
+
+    67% {
+        content: "A Graphic Designe|";
+    }
+
+    68% {
+        content: "A Graphic Designer|";
+    }
+
+    69% {
+        content: "A Graphic Designer.|";
+    }
+
+    70% {
+        content: "A Graphic Designer|";
+    }
+
+    71% {
+        content: "A Graphic Designe|";
+    }
+
+    72% {
+        content: "A Graphic Design|";
+    }
+
+    73% {
+        content: "A Graphic Desig|";
+    }
+
+    74% {
+        content: "A Graphic Desi|";
+    }
+
+    75% {
+        content: "A Graphic Des|";
+    }
+
+    76% {
+        content: "A Graphic De|";
+    }
+
+    77% {
+        content: "A Graphic D|";
+    }
+
+    78% {
+        content: "A Graphic |";
+    }
+
+    79% {
+        content: "A Graphic|";
+    }
+
+    80% {
+        content: "A Graphi|";
+    }
+
+    81% {
+        content: "A Graph|";
+    }
+
+    82% {
+        content: "A Grap|";
+    }
+
+    83% {
+        content: "A Gra|";
+    }
+
+    84% {
+        content: "A Gr|";
+    }
+
+    85% {
+        content: "A G|";
+    }
+
+    86% {
+        content: "A |";
+    }
+
+    87% {
+        content: "A|";
+    }
+
+    88% {
+        content: "|";
+    }
+
+    89% {
+        content: "";
+    }
+
+    90% {
+        content: "";
+    }
+
+    91% {
+        content: "";
+    }
+
+    92% {
+        content: "";
+    }
+
+    93% {
+        content: "";
+    }
+
+    94% {
+        content: "";
+    }
+
+    95% {
+        content: "";
+    }
+
+    96% {
+        content: "";
+    }
+
+    97% {
+        content: "";
+    }
+
+    98% {
+        content: "";
+    }
+
+    99% {
+        content: "";
+    }
+
+    100% {
+        content: "";
+    }
+}

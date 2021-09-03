@@ -1,0 +1,27 @@
+
+@media(max-width:576px){}
+
+
+@media(min-width:577px) and (max-width:768px){
+   
+}
+
+
+
+@media(min-width:769px) and (max-width:991px){
+    
+}
+
+
+@media(min-width:992px) and (max-width:1199px){
+ 
+}
+
+
+@media(min-width:1200px) and (max-width:1399px){
+  
+}
+
+@media(min-width:1400px){
+    
+}
